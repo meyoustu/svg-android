@@ -1,5 +1,5 @@
 S V G   F O R   A N D R O I D
-=============================
+=
 
 DEMO WALLPAPER APP
 
