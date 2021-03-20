@@ -1,15 +1,15 @@
 S V G   F O R   A N D R O I D
-=============================
+=
 
 See NOTICE for license.
 
 Requires the Android SDK and Apache Ant installed to compile.
 
--- JAR File --
+### JAR File
 
 The jar file svg-android.jar is already built and ready for use. Just add to the "libs" directory of your project.
 
--- BUILD A New Jar File --
+### BUILD A New Jar File
 
 Create a file in this directory called 'local.properties' with the single line:
 
@@ -23,7 +23,7 @@ ant jar
 
 (Note, Android platform level 4 (Android 1.1) must be present in your Android SDK to build the jar. Alternatively you can edit build.xml, replacing the string "android-4" with "android-7" or whatever other platform level you want to build against.)
 
--- LIBRARY Project --
+### LIBRARY Project
 
 To include svgandroid as a library project in your own Android project, see here:
 
